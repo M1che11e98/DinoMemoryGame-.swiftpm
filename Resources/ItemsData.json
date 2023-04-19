@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1001,
+        "species": "DILOPHOSAURUS",
+        "era": "CRETACEOUS",
+        "family": "DIDILOPHOSAURIDAE",
+        "description": "Dilophosaurus is a genus of large carnivorous theropods, with an average length of about 5 meters and a weight of 300 kg. Dilophosaurus' slender build allows it to move at high speed, while its powerful jaw enables it to hold its prey as it struggles to escape.",
+        "description2": "Its name - which translates to 'two-crested lizard' - comes from the characteristic ridges on the top of its head. Several theories have been proposed about their function: some scientists suggest that these structures served the animals for thermoregulation. But the most likely hypothesis is that they were sexual displays, that is, they were used as signals for reproduction.",
+        "description3": "Researchers discovered the first fossils of this species in Arizona in 1942. It can be difficult to determine the exact ecosystems that dinosaurs roamed, because not everything fossilizes easily. Though we discover fossils of a dinosaur in one area, they could very well have lived in an entirely different ecosystem nearby, and simply never fossilized there. We do know that the surrounding vegetation had forests, algae, small invertebrates, and freshwater snails. This suggests that they lived in a rainforest or swamp-like setting.",
+        "isLocked": true,
+        "imageName": "DILOPHOSAURUS",
+        "score": 1000,
+        "genus": "🥩"
+    },
+    {
+        "id" : 1002,
+        "species": "STRUTHIOMIMUS",
+        "era": "CRETACEOUS",
+        "family": "ORNITHOMIMIDAE",
+        "description": "Despite the name, Struthiomimus is significantly bigger than an ostrich, at around 4m in length and weighing up to 150kg. It was agile and was obviously adapted for rapid movement on strong, well-developed hind limbs. The three-toed feet were especially birdlike in that they had exceedingly long metatarsals (foot bones), which, as in birds (and some other dinosaurs), did not touch the ground.  Struthiomimus is an herbivorous genus and is likely to feed mainly on soft plants, as its jaw does not contain teeth. This herbivorous diet is further supported by the unusual structure of its hands. The second and third fingers were of equal length, could not function independently, and were probably bound together by skin as a single unit. This indicates that the hand was used as a 'hook' or 'clamp', for bringing branches or fern fronds at shoulder height within reach. However, these adaptations might have been used for wing feather support instead.",
+        "description2": "The name Struthiomimus means ‘ostrich mimic’, and was given to the genus thanks to its similarity to a modern-day ostrich, thanks to its extended neck and long hind legs.",
+        "description3": "Struthiomimus is an herbivorous genus and is likely to feed mainly on soft plants, as its jaw does not contain teeth. This herbivorous diet is further supported by the unusual structure of its hands. The second and third fingers were of equal length, could not function independently, and were probably bound together by skin as a single unit. This indicates that the hand was used as a 'hook' or 'clamp', for bringing branches or fern fronds at shoulder height within reach. However, these adaptations might have been used for wing feather support instead.",
+        "isLocked": true,
+        "imageName": "STRUTHIOMIMUS",
+        "score": 2000,
+        "genus": "🌱"
+        
+    },
+    {
+        "id" : 1003,
+        "species": "MAIASAURA",
+        "era": "CRETACEOUS",
+        "family": "CRETACEOUS",
+        "description": "Notable for having a beak rather than a nose or snout, Maiasaura was a large herbivore (growing up to 9 meters long and weighing more than 900 kg). Though, apparently, they lacked any defense against predators, their heavily muscled tail helped in giving hard blows during combat. These creatures were used to walking in both two, as well as, four legs.",
+        "description2": "Maiasaura's name translates to 'good mother lizard' because it was the first dinosaur to show evidence of feeding its young while they were still in the nest. Later it was found that there were many dinosaurs that showed parental care.",
+        "description3": "Maiasauras dwelled in an inland habitat, and were gregarious creatures, living in huge group. The Maisaura parents raised their offspring in nesting colonies. The nests were usually made of mud or earth with each nest consisting of around 30-40 eggs, with each egg being the size of that of an ostrich. This large herbivore fed on leaves, branches, ferns and other plants. In particular, a paper from 2007 showed that Maiasaura had a diet consisting of fibrous plants. This would imply that Maiasaura was both a browser and a grazer.",
+        "isLocked": true,
+        "imageName": "MAIASAURA",
+        "score": 3000,
+        "genus": "🌱"
+    },
+    
+]
