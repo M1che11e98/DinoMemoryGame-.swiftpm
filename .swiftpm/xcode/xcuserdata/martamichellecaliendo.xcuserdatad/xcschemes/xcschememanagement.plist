@@ -48,6 +48,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>DinoGame</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>DinoMemoryGame</key>
 		<dict>
 			<key>primary</key>
